@@ -1,4 +1,4 @@
-challengepost_rep_program
+ChallengePost Rep Program
 =========================
 
 Rep program for college students
