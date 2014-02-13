@@ -44,6 +44,6 @@ Lastly, it's really important that you want to do this and view it as a mutual c
 
 Sign up [here](http://challengepost.us2.list-manage1.com/subscribe?u=4812d3b2b48f57c38070d62e7&id=6cbf05b996) and we'll get in touch -- or for extra credit:
 
-1. Fork this repo.
+1. [Fork this repo](https://github.com/challengepost/challengepost_rep_program/fork).
 2. Add a short markdown file telling us a bit about yourself, including where you go to school and something cool you've worked on recently. 
 3. Submit a pull request!
