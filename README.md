@@ -6,8 +6,6 @@ At ChallengePost, developers can compete in software challenges, showcase their 
 
 We've powered online challenges and hackathons for organizations like the [White House](http://appsforhealthykids.challengepost.com?utm_source=github&utm_medium=referral&utm_campaign=collegerep), [Samsung](http://freethetv.challengepost.com/submissions?utm_source=github&utm_medium=referral&utm_campaign=collegerep), [Evernote](http://evernotedevcup.challengepost.com?utm_source=github&utm_medium=referral&utm_campaign=collegerep), [Ford](http://ford.challengepost.com/submissions?utm_source=github&utm_medium=referral&utm_campaign=collegerep), and [hundreds more](http://challengepost.com/discover?utm_source=github&utm_medium=referral&utm_campaign=collegerep). Our community is over 400,000 strong and growing!
 
-Sound good - sign up here or make a pull request
-
 ### What's in it for you:
 
 **Experience**
