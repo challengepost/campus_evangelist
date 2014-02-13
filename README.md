@@ -1,8 +1,6 @@
 ![ChallengePost Logo](cp.jpg "ChallengePost")
 
-## Become a ChallengePost College Rep!
-
-_some sort of short summary/sales line._
+## Be a ChallengePost College Rep!
 
 At ChallengePost, developers can compete in software challenges, showcase their work to the community, and draw inspiration from their peers.
 
