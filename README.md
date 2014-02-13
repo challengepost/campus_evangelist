@@ -10,9 +10,9 @@ We've powered online challenges and hackathons for organizations like the [White
 
 **Experience**
 
-You'll be working with an agile New York based startup. We research, design, and iterate - it's the only way we know how to live. You'll gain exposure to our partners, loads of different technologies, and company culture. 
+You'll be working with an agile New York-based startup. We research, design, and iterate &mdash; it's the only way we know how to live. You'll gain exposure to our partners, loads of different technologies, and company culture. 
 
-And if you ever have a question about Rails, marketing, product design, or running a record label - you've got an in house team of experts.
+And if you ever have a question about Rails, marketing, product design, or running a record label, you've got an in-house team of experts.
 
 **A voice**
 
@@ -26,15 +26,15 @@ Shirts, stickers, buttons, and tons of other stuff. We'll make sure you have eve
 
 **Promoting and driving submissions to our awesome challenges**
 
-As our 'boots on the ground', you'll help educate your peers about new challenges on ChallengePost, encourage them to sign up for our newsletters, and get the hyped up to participate!
+As our "boots on the ground," you'll help educate your peers about new challenges on ChallengePost, encourage them to sign up for our newsletters, and get them hyped up to participate!
 
-**Representing ChallengePost at hackathons.**
+**Representing ChallengePost at hackathons**
 
-ChallengePost loves hackathons, so much in fact that we power them for **free**. We're hoping you can attend hackathons and help the organizers get the most out of the product. Don't worry - we'll make sure you know EVERYTHING about it! We also want you to talk to potential hackathon organizers about using ChallengePost and potentially organize your own.
+ChallengePost loves hackathons, so much in fact that we power them for **free**. We're hoping you can attend hackathons and help the organizers get the most out of the product. Don't worry &mdash; we'll make sure you know EVERYTHING about it! We also want you to talk to potential hackathon organizers about using ChallengePost and potentially organize your own.
 
 ### What it takes:
 
-This is a new path for us and we hope you'll help us shape it. As a baseline, we think you should be prepared to commit about 4 hours each week.
+This is a new path for us and we hope you'll help us shape it. As a baseline, we think you should be prepared to commit about four hours each week.
 
 We'll ask you check in every week via email letting us know what you've been able to do that week and how we can help you get the word out even more. If you want to call or setup a Hangout, we're into that too!
 
@@ -42,8 +42,8 @@ Lastly, it's really important that you want to do this and view it as a mutual c
 
 ### How to get started: 
 
-Sign up [here](http://challengepost.us2.list-manage1.com/subscribe?u=4812d3b2b48f57c38070d62e7&id=6cbf05b996) and we'll get in touch -- or for extra credit:
+Sign up [here](http://challengepost.us2.list-manage1.com/subscribe?u=4812d3b2b48f57c38070d62e7&id=6cbf05b996) and we'll get in touch. Or for extra credit:
 
 1. [Fork this repo](https://github.com/challengepost/challengepost_rep_program/fork).
-2. [Tell us a bit about yourself](extracredit.md), including where you go to school and something cool things you've worked on recently. 
+2. [Tell us a bit about yourself](extracredit.md), including where you go to school and some cool things you've worked on recently. 
 3. Submit a pull request!
