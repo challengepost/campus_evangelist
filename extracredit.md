@@ -1,4 +1,4 @@
-###Join ChallengePost's College Rep Team
+###Join ChallengePost's Campus Evangelist Team
 
 Fork this repo, tell us about yourself, and submit a pull request. We can't wait to chat!
 

@@ -1,6 +1,6 @@
 ![ChallengePost Logo](cp.jpg "ChallengePost")
 
-## Be a ChallengePost College Rep!
+## Become a ChallengePost Campus Evangelist!
 
 At ChallengePost, developers can compete in software challenges, showcase their work to the community, and draw inspiration from their peers.
 
@@ -40,7 +40,7 @@ We'll ask you check in every week via email letting us know what you've been abl
 
 Lastly, it's really important that you want to do this and view it as a mutual commitment. We're going to be team members after all!
 
-### How to get started: 
+### How to get started:
 
 Sign up [here](http://challengepost.us2.list-manage1.com/subscribe?u=4812d3b2b48f57c38070d62e7&id=6cbf05b996) and we'll get in touch. Or for extra credit:
 
