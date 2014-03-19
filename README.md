@@ -42,8 +42,6 @@ Lastly, it's really important that you want to do this and view it as a mutual c
 
 ### How to get started:
 
-Sign up [here](http://eepurl.com/N_uZv) and we'll get in touch. Or for extra credit:
-
 1. [Fork this repo](https://github.com/challengepost/campus_evangelist/fork).
 2. [Tell us a bit about yourself](extracredit.md), including where you go to school and some cool things you've worked on recently. 
 3. Submit a pull request!
